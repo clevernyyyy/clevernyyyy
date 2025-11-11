@@ -15,11 +15,11 @@ Tired of trying to get your grids to line up perfectly when creating a nice look
 ### Contacts
 Don't hesitate to reach out, I work hard to try to help/assist/mentor all who get in touch.
 
-twitter · [<img height="16" src='https://raw.githubusercontent.com/johan/svg-cleanups/master/logos/twitter.svg' />](https://twitter.com/clevernyyyy) · [@clevernyyyy](https://twitter.com/clevernyyyy)
+[<img height="16" src='https://raw.githubusercontent.com/johan/svg-cleanups/master/logos/twitter.svg' />](https://twitter.com/clevernyyyy) · twitter · [@clevernyyyy](https://twitter.com/clevernyyyy)
 
-website · [<img height="16" src='https://icons-for-free.com/iconfiles/png/512/application+browser+page+web+website+window+icon-1320086094800574905.png' />](https://adamschaal.com) · [adamschaal.com](https://adamschaal.com)
+[<img height="16" src='https://cdn-icons-png.flaticon.com/512/718/718110.png' />](https://adamschaal.com) · website · [adamschaal.com](https://adamschaal.com)
 
-resume · [👨‍💻](https://offsec.sh) · [offsec.sh](https://offsec.sh)
+[<img height="16" src='https://cdn-icons-png.flaticon.com/512/2666/2666421.png' />](https://offsec.sh) · resume · [offsec.sh](https://offsec.sh)
 
 
 

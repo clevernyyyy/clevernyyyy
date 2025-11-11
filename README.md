@@ -24,6 +24,9 @@ Don't hesitate to reach out, I work hard to try to help/assist/mentor all who ge
 
 
 
+![Profile views counter](https://komarev.com/ghpvc/?username=clevernyyyy&&style=flat-square)
+
+
 <!-- ripped from skip, https://github.com/f8al, good shit -->
 <!-- ![Clevernyyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=clevernyyyy&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clevernyyyy&layout=compact&exclude_repo=duckuino.js)](https://github.com/anuraghazra/github-readme-stats) -->
